@@ -1,7 +1,6 @@
-            Lingua Readme
-                                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Lingua Readme
 
-1. About
+## 1. About
 
 Lingua is a multiple language translation utility. It translates words to and from English into several languages, including Latin, German, Dutch, Italian, French, Spanish, Indonesian, and Portuguese. It can only do simple word and phrase translations, not entire sentences or paragraphs, but is still very useful for those times when you forget how to say "love" in Latin (it's "amare").
 
@@ -9,7 +8,7 @@ Lingua originally used the dictionary text files supplied by GPLTrans. I've take
 
 Questions, comments, and bug reports can be submitted to dream@aevum.net with some mention of Lingua in the subject line. Any comments or complaints about the dictionary files themselves (e.g. "Why can't I find the definition for foobar in Spanish?") should not be submitted, but will be handled separately.
 
-2. Installation and Usage
+## 2. Installation and Usage
 
 If you're reading this, you've already unzipped the Lingua zipfile. You can put the Lingua folder anywhere you want. The only installation requirement is that the "dicts" folder, containing all the dictionary textfiles, must be in the same directory as the Lingua binary. The "docs" folder should also be in the same directory. 
 
@@ -17,7 +16,7 @@ Using Lingua should be very straightforward. Once the application is opened, you
 
 See the documentation for more specific information. 
 
-3. How To Help
+## 3. How To Help
 
 There are two aspects to Lingua: the program, and the dictionary files. The program is my responsibility, but keeping the dictionary files accurate and up to date is more work than I alone can handle. 
 
@@ -25,7 +24,7 @@ If you're interested in donating some time and effort towards cleaning up and ex
 
 Because Lingua isn't my entire life, I won't expect your contributions to be your entire life either. All I'm asking for is several hours of time to make this program more useful to you, as well as everyone else. I'll do what I can myself, but the more help I get, the better.
 
-4. Thanks To
+## 4. Thanks To
 
 Lingua owes its existence to many people and groups, including (in no recognizable order):
 
@@ -40,7 +39,7 @@ Lingua owes its existence to many people and groups, including (in no recognizab
 - Eddie, for being such a damn good code editor
 - Girhardelli hot cocoa, for keeping me alert (mmmmm...)
 
-5. Change Log
+## 5. Change Log
 
 Version 2.0
 Added:
