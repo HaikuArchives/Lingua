@@ -1,0 +1,241 @@
+Age / Sex / Location	ASL
+Also Known As	AKA
+Anyone	NE1 
+Are	R
+Are You OK?	RUOK
+As Far As I Can Tell	AFAICT
+As Far As I Know	AFAIK
+As I Understand It	AIUI
+As Soon As Possible	ASAP
+At The Moment	ATM
+Ate	8
+Away From Keyboard	AFK
+Back At Keyboard	BAK
+Be	B
+Be Back In A Bit	BBIAB
+Be Back In A Bit, Urgent Potty Break	BBIABUPB
+Be Back In A Day Or So	BBIADOS	
+Be Back In A Few	BBIAF
+Be Back In A Minute	BBIAM
+Be Back In A Sec	BBIAS
+Be Back In A While	BBIAW
+Be Back In An Hour	BBIAH
+Be Back Later	BBL
+Be Back Later	BBL8R
+Be Back Soon	BBS
+Be Right Back	BRB
+Be Right Back, I Gotta Go Pee!	BRBIGGP
+Be Right Back, Urgent Potty Break	BRBUPB
+Be Seeing You	BCNU
+Beats The Shit Out Of Me	BTSOOM
+Been There Done That	BTDT
+Before	B4
+Big Ass Smile	BAS
+Big Brother Inside	BBI
+Big Evil Grin	BEG
+Big Giggle	BG
+Big Grin	BG
+BoyFriend	BF
+Bursting With Laughter	BWL
+But Seriously Folks	BSF
+But Seriously Though	BST
+Buzz Word Quotient	BWQ
+By The Way	BTW
+Bye Bye Now	BBN
+Bye For Now	B4N
+Career Limiting Move	CLM
+Channel OPerator OP
+Dead On Arrival	DOA
+Disconnected	D'CD
+Disconnected	DC'D
+Do What I Mean	DWIM
+Do What I Say Not What I Do	DWISNWID
+Don't You Just Hate It When	DYJHIW
+DownLoad	DL
+Download	D/L
+Eat Shit And Die	ESAD
+Evil Giggle	EG
+Evil Grin	EG
+Extended Three Letter Acronym	ETLA
+Face To Face	F2F
+File Transfer Protocol	FTP
+For	4
+For Fucks Sake	FFS
+For What It's Worth	FWIW
+For Your Amusement	FYA
+For Your Entertainment	FYE
+For Your Information	FYI
+Free Of Charge	FOC
+Frequently Asked Question	FAQ
+Friend Of A Friend	FOAF
+From The Bottom Of My Heart	FTBOMH
+Fuck Off And Die	FOAD
+Fucked Up Beyond All Recognition.	FUBAR
+Garbage In Garbage Out	GIGO
+Get A Life	GAL
+Get Well Soon	GWS
+Giggle	G
+GirlFriend	GF
+Give Me A Break	GMAB
+Give Me My Cookie Back	GMMCB
+Go Ahead	GA
+Go Get Stuffed	GGS
+Go To Hell	GTH
+Good To See You	GTSY
+Got To Go	GTG
+Gotta Go Pee	GGP
+Great Minds Think Alike	GMTA
+Grin	G
+Grinning, Running & Ducking	GR&D
+Ha Ha, Only Joking	HHOJ
+Ha Ha, Only Serious	HHOS
+Hello Again	ReHi
+How Are You	HRU
+How The Fuck	HTF
+How The Hell	HTH
+HyperText Markup Language	HTML
+HyperText Transfer Protocol	HTTP
+I Am Not A Laywer	IANAL
+I Don't Know	IDK
+I Know What You Mean	IKWUM
+I See	IC
+I Seem To Recall	ISTR
+I'm Buck Naked	IBN
+If I Recal Correctly	IIRC
+If I Was You	IWY
+If You Know What I Mean	IYKWIM
+In Any Event	IAE
+In My Bloody Opinion	IMBO
+In My Experience	IME
+In My Humble Opinion	IMHO
+In My Not So Humble Opinion	IMNSHO
+In My Opinion	IMO
+In Other Words	IOW
+In Real Life	IRL
+In The Real World	ITRW
+In The Region Off	ITRO
+Internet Control Message Protocol	ICMP
+Internet Relay Chat	IRC
+Internet Service Provider	ISP
+It Seems To Me	ISTM
+It Would Be Nice If	IWBNI
+It doesn't work!	Barf
+Just A Minute!	JAM
+Just In Case JIC
+Just My Opinion	JMO
+Just To Let You Know	JTLYK
+Keep In Touch	KIT
+Keep It Simple, Stupid	KISS
+Kiss My Ass	KMA
+Know What I Mean	KWIM
+Later	L8R
+Laughing My Ass Off	LMAO
+Laughing Out Loud	LOL
+Laughs Out Loud	LOL
+Like Your Nick	LYN
+Long Time No See	LTNS
+Long Time No Type	LTNT
+Lots Of Laughter	LOL
+Male Or Female?	MORF
+Mark My Words	MMW
+Member Of The Appropiate Sex	MOTAS
+Member Of The Other Sex	MOTOS
+Multi User Dungeon	MUD
+Multi User Game	MUG
+My Favourite Toy Language	MFTL
+Never Mind	NM
+No Fucking Way Man	NFWM
+No Problem	NP
+No Reply Necessary	NRN
+Not A Lot Of People Know That	NALOPKT
+Not Ment In An Obscene Manner	NMIAOM
+Nude In Front Of Computer	NIFOC
+OK	K
+Oh	O
+Oh I See	OIC
+Oh My God	OMG
+Oh, By The Way	OBTW
+Oh, I See	OIC
+On The Other Hand	OTOH
+Original Equipment Manufacturer	OEM
+Over And Out	OAO
+Over The Top	OTT
+Pain In The Arse	PITA
+Pain In The Ass	PITA
+People	PPL
+Personal Message	PM
+Piece Of Data	POD
+Public Domain	PD
+Quiet Down	QD
+Read The FAQ	RTFAQ
+Read The Fine Manual	RTFM
+Read The Fucking Manual	RTFM
+Real Soon Now	RSN
+Reconnected	R'CD
+Reconnected	RC'D
+Request For Discussion	RFD
+Rolling On Floor Laughing	ROFL
+Rolling On Floor Laughing My Ass Off	ROFLMAO
+Rolling On Floor Laughing My Head Off	ROFLMHO
+Rolls On The Floor Laughing	ROFL
+See	C
+See You	CU
+See You	CYA
+See You Later	CUL
+See You Later	CUL8ER
+See You Later	CUL8R
+See You Tomorrow	CU2marO
+Shit Outta Luck	SOL
+Shut The Fuck Up	STFU
+Signal To Noise Ratio	SNR
+Significant Other	SO
+Situation Normal, All Fucked Up	SNAFU
+Small Matter Of Programming	SMOP
+Still In The Dark	SITD
+Ta Ta For Now	TTFN
+Talk To You Later	TTYL
+Thank You	TY
+Thanks	THNX
+Thanks	TNX
+Thanks Again	TA
+Thanks In Advance	TIA
+Thanks Very Much	TVM
+The Powers That Be	TPTB
+Their Ain't No Such Thing As A Free Lunch	TANSTAAFL
+There's More To Love Than Boy Meets Girl	TMTLTBMG
+Three Letter Acronym	TLA
+Till Next Time	TNT
+To	2
+Tongue In Cheek	TIC
+Too Damn Many	TDM
+Too Late	2L8
+Trouble Came Back	TCB
+Up Yours	UY
+Urgent Brownie Break	UBB
+Urgent Toilet Break	UTB
+User Brain Damage	UBD
+Very Big Grin	VBG
+Virtual Community	VC
+Virtual Reality	VR
+Wait	W8
+Way To Go	WTG
+Welcome Back	WB
+What The Fuck	WTF
+What The Hell	WTH
+What You See Is What You Get	WYSIWYG
+Why	Y
+With Regard To	WRT
+Would Be Nice If	WBNI
+Yet Another Bloody Acronym	YABA
+You	U
+You Have Bin Mail	YHBM
+You Have Mail YHM
+You Know	UN
+You Know	YN
+You Know What I Mean	YKWIM
+You're Welcome	YW
+Your	UR
+Your Welcome	YW
+Yours	URS
+Oh My God	OMG
+Oh My Gosh	OMG
