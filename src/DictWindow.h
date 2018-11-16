@@ -1,6 +1,9 @@
 #ifndef _DICT_WINDOW_H
 #define _DICT_WINDOW_H
 
+#include <Box.h>
+#include <Menu.h>
+#include <TextControl.h>
 #include <TextView.h>
 #include <Window.h>
 

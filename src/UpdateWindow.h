@@ -1,6 +1,8 @@
 #ifndef UPDATEWINDOW_H
 #define UPDATEWINDOW_H
 
+#include <ListView.h>
+#include <StatusBar.h>
 #include <Window.h>
 
 #define UPDATE_WIDTH	250

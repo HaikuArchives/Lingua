@@ -1,6 +1,12 @@
 #ifndef PREFWINDOW_H
 #define PREFWINDOW_H
 
+#include <CheckBox.h>
+#include <MenuField.h>
+#include <RadioButton.h>
+#include <CheckBox.h>
+#include <PopUpMenu.h>
+#include <TabView.h>
 #include <Window.h>
 #include <String.h>
 
