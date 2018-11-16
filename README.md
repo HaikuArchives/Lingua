@@ -1,5 +1,7 @@
 # Lingua Readme
 
+![screenshot](lingua.png)
+
 ## 1. About
 
 Lingua is a multiple language translation utility. It translates words to and from English into several languages, including Latin, German, Dutch, Italian, French, Spanish, Indonesian, and Portuguese. It can only do simple word and phrase translations, not entire sentences or paragraphs, but is still very useful for those times when you forget how to say "love" in Latin (it's "amare").
