@@ -2,6 +2,7 @@
 #define _DICT_WINDOW_H
 
 #include <Box.h>
+#include <FilePanel.h>
 #include <Menu.h>
 #include <TextControl.h>
 #include <TextView.h>
@@ -15,11 +16,11 @@
 #define MAX_WORDS		10
 #define WIDE_TEXT		2000
 
-#define LINGUA_URL		"http://www.aevum.net/lingua/"
-#define BEBITS_URL		"http://www.bebits.com/app/2024/"
+#define LINGUA_URL		"https://web.archive.org/web/20090306211015/http://www.aevum.net/lingua/"
+#define GITHUB_URL		"https://github.com/HaikuArchives/Lingua/"
 #define DEFAULT_LANG	"Latin"
 
-#define BEBITS_PAGE		'bbpg'
+#define GITHUB_PAGE		'ghpg'
 #define CHANGE_LANG		'clan'
 #define CLEAR_RESULTS	'cler'
 #define DEFINE_WORD		'dfwd'

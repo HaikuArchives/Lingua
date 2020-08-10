@@ -326,7 +326,7 @@ DictWindow::DictWindow(BRect frame)
 	helpMenu->AddItem(new BMenuItem("Documentation...", new BMessage(HELP_MSG)));
 	helpMenu->AddSeparatorItem();
 	helpMenu->AddItem(new BMenuItem("Lingua Website", new BMessage(LINGUA_WEBSITE)));
-	helpMenu->AddItem(new BMenuItem("BeBits Page", new BMessage(BEBITS_PAGE)));
+	helpMenu->AddItem(new BMenuItem("GitHub Page", new BMessage(GITHUB_PAGE)));
 	
 	MenuBar->AddItem(fileMenu);
 	MenuBar->AddItem(editMenu);
@@ -808,9 +808,9 @@ void DictWindow::MessageReceived(BMessage *message)
 		}
 			break;
 			
-		case BEBITS_PAGE:
+		case GITHUB_PAGE:
 		{
-			char *bebits_url = BEBITS_URL;
+			char *bebits_url = GITHUB_URL;
 			be_roster->Launch(URL_TYPE, 1, &bebits_url);
 		}
 			break;

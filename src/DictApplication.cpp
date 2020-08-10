@@ -97,7 +97,7 @@ void DictApplication::MessageReceived(BMessage *msg)
 		case TRANS_CLIPBOARD:
 		{
 			const char *text;
-			int32 textlen;
+			ssize_t textlen;
 			int32 last = 0;
 			BString out_string;
 			
